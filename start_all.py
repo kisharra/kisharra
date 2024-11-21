@@ -633,7 +633,7 @@ async def monitoring_message_handler(update: Update, context: ContextTypes.DEFAU
 
 
 if __name__ == '__main__':
-    TOKEN = '7637338151:AAEVDMyQle_rwCEzYgudzUmuu_opxvnhjzw'
+    TOKEN = ''
     application = ApplicationBuilder().token(TOKEN).build()
 
     application.add_handler(CommandHandler('get_tasks', welcome))

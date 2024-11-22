@@ -4,7 +4,7 @@ GET_INSTALL_WITHOUT_CABLE = 'http://192.168.80.138:5000/api/install_without_cabl
 GET_ADDRESSES_API = 'http://192.168.80.138:5000/api/addresses'
 GET_EXECUTORS = 'http://192.168.80.138:5000/api/executors'
 CLOSE_TASK_API = 'http://192.168.80.138:5000/api/close_task'
-TOKEN = '7637338151:AAEVDMyQle_rwCEzYgudzUmuu_opxvnhjzw'
+TOKEN = 'Your TOKEN'
 DB_NAME = 'tg_bot.db'
 DB_INSTALLERS = {
     'host': 'localhost',
